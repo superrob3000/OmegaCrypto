@@ -41,6 +41,7 @@ namespace OmegaCrypto
             // 
             // genkeys_button
             // 
+            this.genkeys_button.Enabled = false;
             this.genkeys_button.Location = new System.Drawing.Point(215, 415);
             this.genkeys_button.Name = "genkeys_button";
             this.genkeys_button.Size = new System.Drawing.Size(145, 23);
